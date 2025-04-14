@@ -32,7 +32,7 @@ No installation required if using Kaggle. Just open the notebook and run it.
 Set up your Google API Key using an environment variable or Kaggle Secrets.
 
 ## Screenshots
-> *(Optional section: add screenshots from your notebook if desired)*
+> 
 
 ## Let's Connect
 If you're a nonprofit, civic lab, or builder interested in adapting SmartProposal:
