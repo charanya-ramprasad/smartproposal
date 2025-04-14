@@ -24,7 +24,6 @@ You can run the full pipeline in this [Kaggle Notebook](#) https://www.kaggle.co
 SmartProposal/
 ├── SmartProposal.ipynb               # Main interactive notebook
 ├── README.md                         # This file
-└── /assets                           # (optional) for screenshots or logos
 ```
 
 ## Setup Instructions
